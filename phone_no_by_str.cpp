@@ -21,7 +21,7 @@ int main()
 	cout<<"\t* Department: BS Software Engineering                                           *"<<endl;
 	cout<<"\t* Session: 2-A                                                                  *"<<endl;
 	cout<<"\t*_______________________________________________________________________________*"<<endl;
-	cout<<"\t* Question: print phone no?                                                 *"<<endl;
+	cout<<"\t* Question: print phone no?                                                     *"<<endl;
 	cout<<"\t*                                                                               *"<<endl;
 	cout<<"\t* Program:-                                                                     *"<<endl;
 	cout<<"\t*                                                                               *"<<endl;
